@@ -3,8 +3,6 @@
 
 int main()
 {
-	age(10);
-
 	for (int i = 0;i <= 100; i++)
 	{
 		if (i % 2 != 0)
